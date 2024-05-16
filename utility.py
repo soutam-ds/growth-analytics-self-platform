@@ -16,6 +16,6 @@ def upload_file_to_s3(local_file_path, bucket_name, s3_key):
 
 
 
-upload_file_to_s3(local_file_path, bucket_name, s3_key)
+
 
 
