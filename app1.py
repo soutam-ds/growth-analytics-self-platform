@@ -1,4 +1,4 @@
-import utility
+from utility import *
 
 # Configuration
 local_file_path = '/home/soutam/PycharmProjects/growth-analytics-self-platform/stm.csv'  # Replace with the path to your local file
